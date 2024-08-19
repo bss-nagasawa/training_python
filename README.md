@@ -1,0 +1,2 @@
+# training_python
+BSS研修課題のリポジトリです。この課題はバックエンドはPythonで構築します。
